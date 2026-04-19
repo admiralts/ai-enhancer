@@ -1,0 +1,47 @@
+1. Penggunaan Data (Data Usage)
+
+    Penting: Bagian ini akan tampil di halaman detail item Anda. Pastikan isinya mencerminkan apa yang sebenarnya dilakukan oleh kode Anda (pemrosesan lokal).
+
+Apa yang akan Anda kumpulkan dari pengguna?
+(Centang opsi berikut di formulir Anda)
+
+    Aktivitas Pengguna (User Activity):
+
+        Justifikasi: Kami memantau interaksi pada antarmuka chat (seperti klik tombol atau fokus pada input teks) untuk memastikan fitur otomasi dan sidebar muncul tepat waktu tanpa mengganggu alur kerja Anda.
+
+    Konten Situs (Website Content):
+
+        Justifikasi: Ekstensi membaca teks dan elemen pesan di halaman chat (ChatGPT/Gemini) agar fitur navigasi, favorit, dan batch processing bisa bekerja. Data ini digunakan secara real-time untuk memproses permintaan Anda dan tidak disimpan secara permanen di server luar.
+
+2. Pernyataan Sertifikasi (Certification)
+
+Anda harus menyatakan bahwa pengungkapan berikut adalah BENAR:
+
+    Sertifikasi Pihak Ketiga: Saya menyatakan bahwa saya tidak menjual atau mentransfer data pengguna ke pihak ketiga, di luar kasus penggunaan yang disetujui (seperti mengirim teks ke API AI yang Anda gunakan sendiri).
+
+    Tujuan Tunggal: Saya menyatakan bahwa saya tidak menggunakan atau mentransfer data pengguna untuk tujuan yang tidak terkait dengan fungsi inti ekstensi ini (asisten produktivitas AI).
+
+    Kelayakan Kredit: Saya menyatakan bahwa saya tidak menggunakan data pengguna untuk menentukan kelayakan kredit atau tujuan pinjaman.
+
+3. Kebijakan Privasi (Privacy Policy)
+
+Gunakan draf di bawah ini untuk mengisi halaman kebijakan privasi yang akan Anda tautkan. Teks ini dibuat agar terasa seperti ditulis oleh manusia, bukan robot hukum:
+Kebijakan Privasi [Nama Ekstensi Anda]
+
+Singkatnya: Kami menghargai privasi Anda sama seperti kami menghargai privasi kami sendiri. Ekstensi ini dibuat untuk membantu Anda bekerja lebih cepat, bukan untuk memata-matai apa yang Anda ketik.
+
+Bagaimana Kami Menangani Data Anda:
+
+    Semuanya Lokal: Sebagian besar proses terjadi langsung di browser Anda. Saat Anda mengunggah PDF atau memproses teks secara massal, kode kami bekerja di sana, saat itu juga.
+
+    Tidak Ada Server Database: Kami tidak memiliki gudang data pusat untuk menyimpan percakapan Anda. Jika Anda menyimpan "Favorit" atau pengaturan tertentu, data tersebut disimpan di penyimpanan lokal browser Anda (Chrome Local Storage).
+
+    Keamanan File: Saat Anda memproses gambar atau dokumen, data tersebut dikonversi menjadi format yang bisa dibaca AI pilihan Anda (ChatGPT/Gemini). Kami tidak mengintip atau mengambil salinannya.
+
+    Izin yang Kami Minta: Kami meminta izin downloads hanya agar Anda bisa menyimpan hasil kerja AI ke komputer Anda dengan satu klik. Izin clipboard digunakan hanya jika Anda mengaktifkan fitur "Auto-copy" hasil chat.
+
+Perubahan Kebijakan:
+Dunia teknologi berubah cepat, jadi kami mungkin memperbarui tulisan ini sesekali. Namun, prinsip kami tetap sama: data Anda adalah milik Anda.
+
+Kontak:
+Ada yang mengganjal atau ingin tanya-tanya? Kirim email saja ke: [Email Anda]
